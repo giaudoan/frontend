@@ -6,3 +6,4 @@ if (weight < 50) {
   warning = "you need to lose weight";
 }
 console.log(warning);
+

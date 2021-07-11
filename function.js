@@ -15,4 +15,5 @@ var hello = {
     }
 };
 hello.sayHi()
+// 
 

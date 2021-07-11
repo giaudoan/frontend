@@ -11,3 +11,4 @@ console.log(myFriend[0]);
 // 
 var arrayName = new Array('name', 'age', 'weight');
 console.log(arrayName);
+// 
